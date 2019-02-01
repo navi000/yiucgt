@@ -1,0 +1,186 @@
+		
+body{
+	padding: 0px;
+	margin:0px;
+	background-color: slateblue;
+	width: auto;
+	height: auto;
+	text-align: justify-all;
+
+}
+
+#resume-body{
+
+
+	width: 790px;
+	height: auto;
+	background-color: white;
+	margin-top: 50px;
+	margin-left: 300px;
+       border-radius: 25px;
+       border: 2px solid black;
+       box-shadow: 5px 5px 5px 5px grey;
+}
+#resume-body h1{
+
+	font-size: 15px;
+	margin-left: 35px;	
+}
+
+#head{
+	background-color: grey;
+}
+
+#club-info li span{
+   float: right;
+	margin-right: 125px;
+  
+}
+	
+
+table{
+	margin-left: 35px;
+}
+
+td{
+	font-size: 15px;
+}
+
+
+#tech-skills li span{
+
+	float: right;
+	margin-right: 125px;
+}
+
+#tech-skills{
+
+       margin-top: -20px; 
+       padding-bottom: 10px;
+}
+.header-img{
+
+	float: right;
+	width: 50%;
+	margin-right: 70px;
+}
+
+#intern{
+
+       margin: 1px;
+       padding: 2px;
+     
+}
+#intern-by{
+
+       background-color:lightgrey;
+       margin-top: -18px;
+       padding: 5px;
+
+}
+#internship{
+       background-color: grey;
+}
+
+#project{
+
+
+       background-color:lightgrey;
+        margin: 1px;
+       padding: 5px;
+       font-size: 18px;
+       line-height: 24px;
+       text-transform: uppercase;
+}
+#project-name{
+
+       margin-left: 20px;
+       text-transform: uppercase;
+}
+
+#project-desc{
+
+margin-left: 23px;
+font-size: 15px;
+line-height: 20px;
+
+}
+
+#tech-skills-head{
+
+background-color: lightgrey;
+ padding: 5px; 
+margin-left: 2px;
+font-size: 20px;
+}
+
+.positions h3{
+
+       background-color: lightgrey;
+       padding: 5px;
+       font-size: 20px;
+       margin-left: 2px;
+}
+
+#extra-head{
+
+background-color: lightgrey;
+       padding: 5px;
+       font-size: 20px;
+       margin-left: 2px;
+       text-transform: capitalize;
+
+}
+
+.bars{
+
+       width: 25%;
+}
+
+
+.bars{
+
+       margin-left: 10px;
+       text-transform: uppercase;
+       padding-bottom: 15px;
+}
+#acheivements{
+
+width: 150px;
+height: 50px;
+background-color: grey;
+margin-top: 3px;
+text-align: center;
+font-size: 16px;
+}
+
+#workshop{
+
+width: 150px;
+height: 50px;
+background-color: grey;
+text-align: center;
+font-size: 16px;
+}
+
+.language-details p{
+
+       background-color: lightgrey;
+       font-size: 16px;
+       padding: 5px;
+       font-weight: bold;
+}
+.language-details{
+
+       padding-bottom: 10px;
+}
+
+.address-details h3{
+     text-transform: uppercase;
+	 background-color: lightgrey;
+       font-size: 16px;
+       padding: 5px;
+       font-weight: bold;
+
+}
+
